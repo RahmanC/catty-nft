@@ -1,0 +1,15 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Catty"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Mocha"
+      }
+    ],
+    "description": "The world's most adorable and sensitive cat.",
+    "image": "ipfs://Qme1qdAC7qLvati86qVeNiSD6wSfaSLZSJ2nB5cTT9KZnE",
+    "name": "Catty"
+  }
